@@ -1,0 +1,21 @@
+    //複数ファイルの指定かどうか
+    let mut multiple_files=false;
+    let f_target = &args[3];
+    if f_target == "./*.txt"{multiple_files = true;}
+
+    //バイト数指定かどうか
+    let mut byte_read=false;
+    if args[1] == "-c" {byte_read=true;}
+
+    //読み込む数(行数orバイト数)の取得
+    let num_of_read:&String = &args[2];
+
+    //ファイルの読み込み（文字列として一気に読み込み
+    let mut content:String = String::new();
+    if multiple_files==false {
+        content = fs::read_to_string(f_target)?;
+    }
+
+    
+    println!("b_byte_read={},num_of_read={},filename={},file_multyple={}", 
+        byte_read, num_of_read,f_target,multiple_files);
