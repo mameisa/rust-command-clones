@@ -1,0 +1,42 @@
+The simplest solution is often the best place to start.
+%
+A bug found today is one less surprise tomorrow.
+%
+Read the error message. It is trying to help you.
+%
+Small programs are a good place to learn big ideas.
+%
+Make it work first. Refactor when there is a reason.
+%
+One test at a boundary is worth several tests in the middle.
+%
+If the code is hard to explain, make the next step smaller.
+%
+A good command does one thing clearly.
+%
+The compiler is not your enemy. It is an unusually strict reviewer.
+%
+When in doubt, print the value and check the assumption.
+%
+Ownership looks strange until move becomes ordinary.
+%
+An iterator is just a disciplined way of asking, "what comes next?"
+%
+Do not optimize the part you have not proved to be slow.
+%
+A working implementation is useful evidence for the next design decision.
+%
+Today is a good day to delete one unnecessary special case.
+%
+There are two difficult problems in programming:
+knowing what the program should do,
+and noticing when it does something else.
+%
+The shortest path to understanding a command
+is sometimes to implement it yourself.
+%
+Before adding an option, make sure the basic behavior is correct.
+%
+A random result is still produced by deterministic code around one random choice.
+%
+Finish one small thing, then choose the next small thing.

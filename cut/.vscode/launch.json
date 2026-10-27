@@ -14,7 +14,7 @@
                     "--bin=cut"
                 ]
             },
-            "args": []
+            "args": [ "-d", ":", "-f","2"]
         },
         {
             "name": "Debug unit tests in executable 'cut'",

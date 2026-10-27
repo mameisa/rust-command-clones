@@ -14,7 +14,7 @@
                     "--bin=grep"
                 ]
             },
-            "args": ["error","input.txt"]
+            "args": ["-c","grep","input.txt"]
         },
         {
             "name": "Debug unit tests in executable 'grep'",

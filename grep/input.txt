@@ -1,5 +1,2 @@
-ertu1
-erth3
-error
-error
-abc error xyz
+grep grepabc
+def
