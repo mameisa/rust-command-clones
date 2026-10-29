@@ -1,0 +1,9 @@
+yoshino tokyo 30
+kondo osaka 20
+abe nagoya 40
+tanaka fukuoka 25
+sato sendai 35
+suzuki tokyo 22
+ito osaka 28
+kimura kyoto 5
+unknown

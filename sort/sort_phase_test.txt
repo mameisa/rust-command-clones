@@ -1,0 +1,15 @@
+orange
+apple
+banana
+10
+2
+20
+Banana
+APPLE
+apple
+zebra
+orange 100 z
+apple 200 c
+banana 300 a
+10
+2 400 b
